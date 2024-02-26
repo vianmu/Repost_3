@@ -6,15 +6,16 @@
 
 <img src="Nala.png" alt="Nala" width="140" height="auto" style="border-radius:50%"   />
 <br/>
-<h3><b>NEWTORK SCRIPT PROJECT</b>
+<h3><b>Proyecto de documentación</b>
 
 </div>
 
 # ✅ TABLE OF CONTENTS
-- [📖 About the Project](#about-project)
-  - [⚒️ Build With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+- [📖 Proyecto de documentación](#Proyecto)
+[🫏 Getting Started](#getting-started)
+  - [🐧 Fuente](#Creación-de-codigo)
+    - [Paquete de tecnologia](#tech-stack)
+    - [shell](#shell)
   - [🚀 Live Demo](#live-demo)
  - [💻 Getting Started](#getting-started)
    - [Setup](#setup)
@@ -31,18 +32,18 @@
 - [❓ FAQ ](#faq)
 - [📃 License](#license)
 
-# 📖 [NETWORK SCRIPT PROJECT]<a name="about-project"></a>
+# 📖 [Proyecto de documentación]<a name="Proyecto"></a>
 
-**[Networ Script Project]** This is a first project in SENA'S   SysAdmin Network Curriculum
+**[Proyecto de documentación]** Es una documentación para explicar el uso de comandos de GIT BASH y SHELL
 
-## ⚒️ Build With <a name="built-with"></a>
+## 🐧 Fuente <a name="Creación-de-codigo"></a>
 
 <p>
-This Projects was built using:
+Este proyecto utilizo como fuente los siguientes lenguajes:
 HTML, MARKDOWN AND SHELLSCRIPT, GIT, GITHUB
 </p>
 
-### Tech Stack <a name="tech-stack"></a>
+### Paquete de tecnologia <a name="tech-stack"></a>
 
 <li> HTML </li>
 <li> MARKDOWN </li>
@@ -65,9 +66,32 @@ HTML, MARKDOWN AND SHELLSCRIPT, GIT, GITHUB
 </details>
 
 
-### Key Features <a name="key-features"></a>
+### Shell <a name="Shell"></a>
+<li> test de conectividad <li>
+<li> configuración de red <li>
+<li> enrutamiento <li>
+<li> resolución de dns <li>
+<li> revisar puertos de host <li>
+<li> prueba de velocidad <li>
+
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
+
+### [Documentación]<a name="Pasos"></a>
+Paso a paso de la documentación
+🌺​ Primer paso
+
+    | Crear una carpeta con el nombre del repositorio
+<img src="Archivo.png" alt="Archivo" width="100" height="auto" style="border-radius:15%"   />
+
+    | Ejecutar la carpeta con GIT BASH
+<img src="Captura.png" alt="Captura" width="100" height="auto" style="border-radius:15%"   />
+
+    | Para iniciar la ejecución con Visual Studio utilizamos code . que nos permite abrir el directorio 
+<img src="Ejecución.png" alt="Ejecución" width="100" height="auto" style="border-radius:15%"   />
+
+    | En visual studio se creara un fichero.sh para ejecutar el analisis de la red 
+<img src="Visual.png" alt="Visual" width="100" height="auto" style="border-radius:15%"   />
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
