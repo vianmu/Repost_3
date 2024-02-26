@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="logo.png" alt="logo" width="140" height="auto" style="border-radius:50%"   />
+<img src="Nala.png" alt="Nala" width="140" height="auto" style="border-radius:50%"   />
 <br/>
 <h3><b>NEWTORK SCRIPT PROJECT</b>
 
